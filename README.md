@@ -21,6 +21,7 @@ Enterprise Architect working with SAP since 1998. Currently focused on **S/4HANA
 - 🔭 **Currently working on:** S/4HANA migrations
 - 🎓 **Background:** Wirtschaftsinformatik (Business Information Systems) — Mannheim
 - 📜 **Certified in:** SAP Development, Microsoft Azure Foundations, TOGAF, among others
+- 🗣️ **Languages:** German, English, Brazilian Portuguese
 
 ## 🎤 Community & Speaking
 
