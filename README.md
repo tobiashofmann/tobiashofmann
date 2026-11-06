@@ -52,9 +52,9 @@ Bridging enterprise architecture with hands-on SAP development — making sure t
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Probleme bei der Verwendung von LIPOKs und die Lösung via KI](https://www.itsfullofstars.de/2026/11/probleme-bei-der-verwendung-von-lipoks-und-die-loesung-via-ki/)
 - [The undiscovered backlog](https://www.itsfullofstars.de/2026/11/the-undiscovered-backlog/)
 - [Developing with AI is more than just code](https://www.itsfullofstars.de/2026/10/developing-with-ai-is-more-than-just-code/)
 - [SAP TechEd 2026 News Guide](https://www.itsfullofstars.de/2026/10/sap-teched-2026-news-guide/)
 - [Off-stack ABAP development with local dependencies](https://www.itsfullofstars.de/2026/10/off-stack-abap-development-with-local-dependencies/)
-- [Ready or not, here we come](https://www.itsfullofstars.de/2026/10/ready-or-not/)
 <!-- BLOG-POST-LIST:END -->
