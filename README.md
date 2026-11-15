@@ -52,9 +52,9 @@ Bridging enterprise architecture with hands-on SAP development — making sure t
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rothaus Shop und DSGVO](https://www.itsfullofstars.de/2026/11/rothaus-shop-und-dsgvo/)
+- [AI won&#39;t kill your job](https://www.itsfullofstars.de/2026/11/ai-wont-kill-your-job/)
 - [Customer Influence Part 2](https://www.itsfullofstars.de/2026/11/customer-influence-part-2/)
 - [How to apply an open licence to your project](https://www.itsfullofstars.de/2026/11/how-to-apply-an-open-licence-to-your-project/)
 - [EOL date for S/4HANA Java](https://www.itsfullofstars.de/2026/11/eol-date-for-s4hana-java/)
-- [Allow Script and UI5 tooling](https://www.itsfullofstars.de/2026/11/allow-script-and-ui5-tooling/)
-- [Problems when using SIPOCs and the solution via AI](https://www.itsfullofstars.de/2026/11/problems-when-using-sipocs-and-the-solution-via-ai/)
 <!-- BLOG-POST-LIST:END -->
