@@ -52,9 +52,9 @@ Bridging enterprise architecture with hands-on SAP development — making sure t
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More personal data delivered by SAP](https://www.itsfullofstars.de/2026/11/more-personal-data-delivered-by-sap/)
 - [Update Astro with the help of AI](https://www.itsfullofstars.de/2026/11/update-astro-with-the-help-of-ai/)
 - [Continuous Quality Assurance](https://www.itsfullofstars.de/2026/11/continuous-quality-assurance/)
 - [Rothaus Shop und DSGVO](https://www.itsfullofstars.de/2026/11/rothaus-shop-und-dsgvo/)
 - [AI won&#39;t kill your job](https://www.itsfullofstars.de/2026/11/ai-wont-kill-your-job/)
-- [Customer Influence Part 2](https://www.itsfullofstars.de/2026/11/customer-influence-part-2/)
 <!-- BLOG-POST-LIST:END -->
